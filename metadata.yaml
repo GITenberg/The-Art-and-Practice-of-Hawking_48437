@@ -1,4 +1,5 @@
 _repo: The-Art-and-Practice-of-Hawking_48437
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Lodge, George Edward
@@ -9,12 +10,17 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '35593'
     url: http://www.gutenberg.org/2009/agents/35593
+covers:
+- cover_type: archival
+  image_path: 48437-h/images/cover.jpg
 creator:
   author:
     agent_name: Michell, Edward B.
     gutenberg_agent_id: '44798'
     url: http://www.gutenberg.org/2009/agents/44798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48437#The-Art-and-Practice-of-Hawking
 gutenberg_issued: '2015-03-08'
 gutenberg_type: Text
 identifiers:
